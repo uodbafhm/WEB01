@@ -1,0 +1,7 @@
+{
+  "name": "Dr. Mapso Dentist 2",
+  "description": "A premium, responsive dental clinic website for Dr. Mapso in Morocco featuring service showcases and direct WhatsApp appointment booking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
