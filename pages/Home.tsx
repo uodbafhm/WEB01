@@ -162,7 +162,12 @@ const Home: React.FC = () => {
                   ))}
                 </div>
               </div>
-              <div className="hidden lg:block relative">
+              <div className="relative w-[380px] h-[380px] mx-auto rounded-full overflow-hidden bg-white shadow-2xl ring-4 ring-teal-100">
+                  <img 
+                  src="https://images.pexels.com/photos/3845806/pexels-photo-3845806.jpeg?auto=compress&cs=tinysrgb&w=1260" 
+                  alt="Dr Mapso Clinic" 
+                  className="w-full h-full object-contain"
+                  />
               </div>
             </div>
           </div>
