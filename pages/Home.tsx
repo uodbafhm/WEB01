@@ -163,11 +163,6 @@ const Home: React.FC = () => {
                 </div>
               </div>
               <div className="hidden lg:block relative">
-                <img 
-                  src="https://images.pexels.com/photos/6529110/pexels-photo-6529110.jpeg" 
-                  alt="Quality Care" 
-                  className="rounded-[2.5rem] shadow-2xl object-cover aspect-video"
-                />
               </div>
             </div>
           </div>
